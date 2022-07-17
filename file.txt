@@ -1,2 +1,2 @@
 This is a change in the file.
-This Change IS A BIG CHANGE!!
+This Change IS A CONFLICT CHANGE!!
